@@ -55,7 +55,7 @@ composer create-project --prefer-dist laravel/laravel <name>
 #### Clone the project
 
 ```bash
-git clone https://git.newdeveloper.nl/cfrieman0780/muntenharker.git
+git clone https://github.com/chrinsieboy/muntenharker.git
 ```
 
 #### .env
